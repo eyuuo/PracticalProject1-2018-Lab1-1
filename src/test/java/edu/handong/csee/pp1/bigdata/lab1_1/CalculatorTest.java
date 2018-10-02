@@ -27,7 +27,7 @@ public class CalculatorTest {
 	}
 	
 	@Test
-	public void testMod() {
+	public void testMod() {//나머
 		// TODO Complete this test case
 	}
 
