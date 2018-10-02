@@ -67,9 +67,10 @@ public class Calculator {
 
 		print("SUM:" , sum(firstIntArg, secondIntArg));
 		print("SUB:" , this.subtract(firstIntArg, secondIntArg));
+		print("%:" , mod(firstIntArg,secondIntArg));
 		print("*:" , multiply(firstIntArg, secondIntArg));
 		print2("DV:" , divide(firstIntArg,secondIntArg));
-		//print("%:" , mod(firstIntArg,secondIntArg));
+		
 		
 		
 	}
